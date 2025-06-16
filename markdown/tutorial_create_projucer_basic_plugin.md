@@ -8,7 +8,7 @@ This tutorial will help you to set up your computer and create an Projucer proje
 
 # Getting started
 
-[Download JUCE](https://shop.juce.com/get-juce/download). Unpack the JUCE folder and place it to some location on your computer. Your user home folder is a convenient place.
+[Download JUCE](https://juce.com/download). Unpack the JUCE folder and place it to some location on your computer. Your user home folder is a convenient place.
 
 Launch the Projucer application, which is located in your JUCE folder.
 
