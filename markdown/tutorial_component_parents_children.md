@@ -1,3 +1,6 @@
+---
+title: Parent and child components
+---
 # Tutorial: Parent and child components
 
 This tutorial introduces the hierarchical nature of the [Component](https://docs.juce.com/master/classComponent.html "The base class for all JUCE user-interface objects.") class whereby one component can contain one or more nested child components. This is key to laying out user interfaces in JUCE.

@@ -1,3 +1,6 @@
+---
+title: Create a string model with delay lines
+---
 # Tutorial: Create a string model with delay lines
 
 Implement a realistic string model by means of physical modelling. Incorporate a delay line to create intricate echo patterns in the stereo sound field.

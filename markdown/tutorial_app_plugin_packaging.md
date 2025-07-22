@@ -1,3 +1,6 @@
+---
+title: Package your app or plugin for distribution
+---
 # Tutorial: Package your app or plugin for distribution
 
 Learn how to prepare your audio application or plugin for distribution on various marketplaces. Create installers for all plugin types on different OS platforms.

@@ -1,3 +1,6 @@
+---
+title: Control audio levels using decibels
+---
 # Tutorial: Control audio levels using decibels
 
 This tutorial shows how to process audio to change its output level using the decibel scale. This is a more common way in which to present audio level values to the user within audio applications.

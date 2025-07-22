@@ -1,3 +1,6 @@
+---
+title: Advanced GUI layout techniques
+---
 # Tutorial: Advanced GUI layout techniques
 
 Lay out your components with a simple yet powerful technique that will produce elegant code with fewer bugs. The technique involves subdividing the component rectangle several times, in different ways, to fill the entire component with your content.

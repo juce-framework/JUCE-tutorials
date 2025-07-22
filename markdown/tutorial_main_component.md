@@ -1,3 +1,6 @@
+---
+title: The main component
+---
 # Tutorial: The main component
 
 This tutorial shows how to add graphical content to the application window by creating a main content component. This is important for displaying content to the user within a window.

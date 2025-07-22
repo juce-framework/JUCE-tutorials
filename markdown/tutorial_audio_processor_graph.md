@@ -1,3 +1,6 @@
+---
+title: Cascading plug-in effects
+---
 # Tutorial: Cascading plug-in effects
 
 Create your own channel strip by learning how to daisy chain audio processors or plugins using an [AudioProcessorGraph](https://docs.juce.com/master/classAudioProcessorGraph.html "A type of AudioProcessor which plays back a graph of other AudioProcessors."). Learn how to use the [AudioProcessorGraph](https://docs.juce.com/master/classAudioProcessorGraph.html "A type of AudioProcessor which plays back a graph of other AudioProcessors.") in both a plugin and standalone application context.

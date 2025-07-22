@@ -1,3 +1,6 @@
+---
+title: Create a basic Audio/MIDI plugin, Part 2: Coding your plug-in
+---
 # Tutorial: Create a basic Audio/MIDI plugin, Part 2: Coding your plug-in
 
 This tutorial follows on from [Tutorial: Create a basic Audio/MIDI plugin, Part 1: Setting up](/tutorials/tutorial_create_projucer_basic_plugin/), and will talk through starting from a clean project and ending up with a fully functioning, if somewhat simple, plug-in that can react to incoming MIDI notes.

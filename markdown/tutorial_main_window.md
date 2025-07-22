@@ -1,3 +1,6 @@
+---
+title: The application window
+---
 # Tutorial: The application window
 
 This tutorial demonstrates how to create a minimal app with an application window, and how to customise the size and appearance of that window. This is critical for any JUCE GUI application.

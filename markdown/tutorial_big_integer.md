@@ -1,3 +1,6 @@
+---
+title: The BigInteger class
+---
 # Tutorial: The BigInteger class
 
 This tutorial introduces the [BigInteger](https://docs.juce.com/master/classBigInteger.html "An arbitrarily large integer class.") class, which is for handling arbitrarily large integers. [BigInteger](https://docs.juce.com/master/classBigInteger.html "An arbitrarily large integer class.") objects are often used in cryptography applications, when large bit masks are needed, and anywhere else where really large integers are needed.

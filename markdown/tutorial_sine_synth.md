@@ -1,3 +1,6 @@
+---
+title: Build a sine wave synthesiser
+---
 # Tutorial: Build a sine wave synthesiser
 
 This tutorial introduces simple sine wave synthesis. We show how to manage the state of a sine wave oscillator and write data to the audio output.

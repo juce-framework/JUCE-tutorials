@@ -1,3 +1,6 @@
+---
+title: Control audio levels
+---
 # Tutorial: Control audio levels
 
 This tutorial shows how to process audio to change its output level. This is achieved by processing the low-level audio sample data.

@@ -1,3 +1,6 @@
+---
+title: Create a basic Audio/MIDI plugin, Part 1: Setting up
+---
 # Tutorial: Create a basic Audio/MIDI plugin, Part 1: Setting up
 
 This tutorial will help you to set up your computer and create an Projucer project for developing audio plug-ins (VST3 and AudioUnit) using JUCE. At the end, we will end up with an audio plug-in that says \"Hello, World!\" and can be loaded into VST3 hosts like Cubase or REAPER.

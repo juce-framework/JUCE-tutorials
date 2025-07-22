@@ -1,3 +1,6 @@
+---
+title: Processing audio input
+---
 # Tutorial: Processing audio input
 
 This tutorial shows how to process audio input and pass it to the audio output.

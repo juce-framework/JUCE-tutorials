@@ -1,3 +1,6 @@
+---
+title: Projucer Part 3: Choosing the right Projucer template for your application
+---
 # Tutorial: Projucer Part 3: Choosing the right Projucer template for your application
 
 Choosing the right template for your application can be a tricky task at first and inheriting from the right class from the start can give a tremendous boost in productivity. In this tutorial we explore the different template projects that the Projucer offers and the main classes to watch for when conceiving your applications.

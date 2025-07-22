@@ -1,3 +1,6 @@
+---
+title: The fast Fourier transform
+---
 # Tutorial: The fast Fourier transform
 
 Learn how to display incoming audio data as a spectrogram by using the FFT class of the DSP module. Understand the benefits of using a Fast Fourier Transform.

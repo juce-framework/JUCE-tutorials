@@ -1,3 +1,6 @@
+---
+title: Radio buttons and checkboxes
+---
 # Tutorial: Radio buttons and checkboxes
 
 Use radio buttons and checkboxes to add selectable options to your application.

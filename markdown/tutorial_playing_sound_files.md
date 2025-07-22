@@ -1,3 +1,6 @@
+---
+title: Build an audio player
+---
 # Tutorial: Build an audio player
 
 This tutorial covers how to open and play sound files. This includes some important classes for handling sound files in JUCE.

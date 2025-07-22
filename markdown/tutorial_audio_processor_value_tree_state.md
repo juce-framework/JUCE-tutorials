@@ -1,3 +1,6 @@
+---
+title: Saving and loading your plug-in state
+---
 # Tutorial: Saving and loading your plug-in state
 
 Automatic management of your plug-in parameters. Storing and accessing parameters becomes a breeze and, in particular, makes building effective user interfaces much easier.

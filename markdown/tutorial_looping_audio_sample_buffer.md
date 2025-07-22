@@ -1,3 +1,6 @@
+---
+title: Looping audio using the AudioSampleBuffer class
+---
 # Tutorial: Looping audio using the AudioSampleBuffer class
 
 This tutorial shows how to play and loop audio stored in an AudioSampleBuffer object. This is a useful basis for sampling applications that manipulate recorded audio data.

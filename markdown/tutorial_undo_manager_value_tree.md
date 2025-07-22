@@ -1,3 +1,6 @@
+---
+title: Using an UndoManager with a ValueTree
+---
 # Tutorial: Using an UndoManager with a ValueTree
 
 Implement undo/redo actions in your applications. Easily restore previous intermediate states with [UndoableAction](https://docs.juce.com/master/classUndoableAction.html "Used by the UndoManager class to store an action which can be done and undone.") objects and learn how to group undoable actions into transactions.

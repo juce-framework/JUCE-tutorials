@@ -1,3 +1,6 @@
+---
+title: Animating geometry
+---
 # Tutorial: Animating geometry
 
 Create simple animations in your JUCE applications. Bring static geometry shapes to life using the [AnimatedAppComponent](https://docs.juce.com/master/classAnimatedAppComponent.html "A base class for writing simple one-page graphical apps.") class.

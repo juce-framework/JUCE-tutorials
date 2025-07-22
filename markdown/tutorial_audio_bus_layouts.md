@@ -1,3 +1,6 @@
+---
+title: Configuring the right bus layouts for your plugins
+---
 # Tutorial: Configuring the right bus layouts for your plugins
 
 Learn how to configure and restrict the bus layouts in your plugins for a multitude of configurations. Check the bus arrangements of your AU plugins using the auval tool provided in Apple's Logic Pro.

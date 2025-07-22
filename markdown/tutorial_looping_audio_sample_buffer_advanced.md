@@ -1,3 +1,6 @@
+---
+title: Looping audio using the AudioSampleBuffer class (advanced)
+---
 # Tutorial: Looping audio using the AudioSampleBuffer class (advanced)
 
 This tutorial shows how to play and loop audio stored in an [AudioSampleBuffer](group__juce__audio__basics-buffers.html#gab339ebab0d3b10c91c0d47c8fd2e50d2) object using thread-safe techniques. A technique for loading the audio data on a background thread is also introduced.

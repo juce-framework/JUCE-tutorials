@@ -1,3 +1,6 @@
+---
+title: The Point, Line, and Rectangle classes
+---
 # Tutorial: The Point, Line, and Rectangle classes
 
 Use the [Point](https://docs.juce.com/master/classPoint.html "A pair of (x, y) coordinates."), [Line](https://docs.juce.com/master/classLine.html "Represents a line."), and [Rectangle](https://docs.juce.com/master/classRectangle.html "Manages a rectangle and allows geometric operations to be performed on it.") classes to simplify your geometry calculations.

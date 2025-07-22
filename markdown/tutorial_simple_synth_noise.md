@@ -1,3 +1,6 @@
+---
+title: Build a white noise generator
+---
 # Tutorial: Build a white noise generator
 
 This tutorial introduces simple synthesis and audio output. This is key to developing an understanding of audio application (and plug-in) concepts in JUCE.

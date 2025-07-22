@@ -1,3 +1,6 @@
+---
+title: Build a MIDI synthesiser
+---
 # Tutorial: Build a MIDI synthesiser
 
 This tutorial implements a polyphonic sine wave synthesiser that responds to MIDI input. This makes use of the [Synthesiser](https://docs.juce.com/master/classSynthesiser.html "Base class for a musical device that can play sounds.") class and related classes.

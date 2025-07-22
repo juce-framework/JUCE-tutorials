@@ -1,3 +1,6 @@
+---
+title: The ValueTree class
+---
 # Tutorial: The ValueTree class
 
 Learn how to use the [ValueTree](https://docs.juce.com/master/classValueTree.html "A powerful tree structure that can be used to hold free-form data, and which can handle its own undo ...") class to manage data effectively in your applications.

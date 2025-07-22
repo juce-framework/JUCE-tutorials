@@ -1,3 +1,6 @@
+---
+title: Plugin examples
+---
 # Tutorial: Plugin examples
 
 This tutorial explains several audio/midi plug-in examples in detail and explores the open possibilities of plug-in development.

@@ -1,3 +1,6 @@
+---
+title: The Random class
+---
 # Tutorial: The Random class
 
 This tutorial introduces generating random numbers using the [Random](https://docs.juce.com/master/classRandom.html "A random number generator.") class. [Random](https://docs.juce.com/master/classRandom.html "A random number generator.") numbers are useful in all sorts of situations including games, cryptography, and audio.

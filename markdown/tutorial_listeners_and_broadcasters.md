@@ -1,3 +1,6 @@
+---
+title: Listeners and Broadcasters
+---
 # Tutorial: Listeners and Broadcasters
 
 This tutorial introduces a key concept in JUCE: the listener and broadcaster system. We look at this through implementing simple actions in response to button clicks.

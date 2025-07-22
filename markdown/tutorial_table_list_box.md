@@ -1,3 +1,6 @@
+---
+title: The TableListBox class
+---
 # Tutorial: The TableListBox class
 
 Incorporate tables into your JUCE user interfaces. Display data loaded from an XML file and customise the format of your table.

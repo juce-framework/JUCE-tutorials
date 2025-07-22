@@ -1,3 +1,6 @@
+---
+title: File reading
+---
 # Tutorial: File reading
 
 Open and read data from text and binary files.

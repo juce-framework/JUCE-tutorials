@@ -1,3 +1,6 @@
+---
+title: Introduction to DSP
+---
 # Tutorial: Introduction to DSP
 
 Discover the realm of digital signal processing and audio buffer manipulation. Learn the basics of the JUCE DSP module and how you can incorporate its classes in your own audio application and plugins.

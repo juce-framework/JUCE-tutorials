@@ -1,3 +1,6 @@
+---
+title: Create MIDI data
+---
 # Tutorial: Create MIDI data
 
 This tutorial introduces the [MidiMessage](https://docs.juce.com/master/classMidiMessage.html "Encapsulates a MIDI message.") class, which is used for representing MIDI data. The [MidiBuffer](https://docs.juce.com/master/classMidiBuffer.html "Holds a sequence of time-stamped midi events.") class is also introduced for handling buffers of MIDI messages.

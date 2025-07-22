@@ -1,3 +1,6 @@
+---
+title: Visualise the frequencies of a signal in real time
+---
 # Tutorial: Visualise the frequencies of a signal in real time
 
 Learn how to display incoming audio data as a spectrum analyser by using the FFT class of the DSP module. Understand the benefits of using a windowing function.

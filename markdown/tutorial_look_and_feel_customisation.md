@@ -1,7 +1,6 @@
 ---
 title: Customise the look and feel of your app
 ---
-
 # Tutorial: Customise the look and feel of your app
 
 Customise the drawing of fundamental widgets in your application. Make a custom _skin_ for your application by drawing your own buttons, sliders, and other components.

@@ -1,3 +1,6 @@
+---
+title: Colours in JUCE
+---
 # Tutorial: Colours in JUCE
 
 Specify and apply colours within your application in various ways.

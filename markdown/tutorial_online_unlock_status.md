@@ -1,3 +1,6 @@
+---
+title: Unlock your plugins through online registration
+---
 # Tutorial: Unlock your plugins through online registration
 
 Improve the security of your apps and plugins by locking their access until authorisation. Learn how to provide users with a mechanism to unlock your plugins through online registration of keys.

@@ -1,3 +1,6 @@
+---
+title: Add distortion through waveshaping and convolution
+---
 # Tutorial: Add distortion through waveshaping and convolution
 
 Add grit to a synthesiser sound by creating harmonic distortion through waveshaping. Learn the basics of convolution to retrieve the sonic characteristics contained in an impulse response.

@@ -1,3 +1,6 @@
+---
+title: Projucer Part 2: Manage your Projucer projects
+---
 # Tutorial: Projucer Part 2: Manage your Projucer projects
 
 In [Tutorial: Projucer Part 1: Getting started with the Projucer](/tutorials/tutorial_new_projucer_project/), you learned how to create a new JUCE project, export it to your native IDE, and start coding. However, the Projucer is not just about that --- it is also a very powerful cross-platform tool to manage all settings for your project, add source files, and much more. As you develop your JUCE application, the Projucer will be your faithful companion throughout the process. This tutorial gives you an overview over some essential features.

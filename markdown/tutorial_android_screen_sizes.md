@@ -1,3 +1,6 @@
+---
+title: Managing Android screen sizes
+---
 # Tutorial: Managing Android screen sizes
 
 Build your application for different screen sizes. There are many available screen sizes on Android, this tutorial examines some strategies to manage this.

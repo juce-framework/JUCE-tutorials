@@ -1,3 +1,6 @@
+---
+title: Wavetable synthesis
+---
 # Tutorial: Wavetable synthesis
 
 Incorporate wavetables to optimise your synthesiser oscillators. Manage the state of a sine wave oscillator using a wavetable and write data to the audio output.

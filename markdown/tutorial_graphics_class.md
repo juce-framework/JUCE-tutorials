@@ -1,3 +1,6 @@
+---
+title: The Graphics class
+---
 # Tutorial: The Graphics class
 
 This tutorial shows how to use a [Graphics](https://docs.juce.com/master/classGraphics.html "A graphics context, used for drawing a component or image.") object to draw text, lines, and geometric shapes. This is fundamental to performing drawing in JUCE.

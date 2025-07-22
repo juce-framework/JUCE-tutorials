@@ -1,3 +1,6 @@
+---
+title: The Label class
+---
 # Tutorial: The Label class
 
 This tutorial introduces the [Label](https://docs.juce.com/master/classLabel.html "A component that displays a text string, and can optionally become a text editor when clicked.") class, which is a component for displaying text. A [Label](https://docs.juce.com/master/classLabel.html "A component that displays a text string, and can optionally become a text editor when clicked.") component can also be set to be editable so it's really useful for displaying text and simple text entry.

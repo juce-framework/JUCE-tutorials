@@ -1,3 +1,6 @@
+---
+title: Understanding MPE zones
+---
 # Tutorial: Understanding MPE zones
 
 Learn the concept of zones and the conventions for zone layouts as defined in the MPE standard. Hook up your MPE synthesiser to an MPE-compatible device.

@@ -1,3 +1,6 @@
+---
+title: Optimisation using the SIMDRegister class
+---
 # Tutorial: Optimisation using the SIMDRegister class
 
 Take advantage of the processor's parallelism to perform single instruction multiple data calculations. Optimise your audio applications without introducing concurrency.

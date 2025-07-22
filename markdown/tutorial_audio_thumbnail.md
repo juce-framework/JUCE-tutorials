@@ -1,3 +1,6 @@
+---
+title: Draw audio waveforms
+---
 # Tutorial: Draw audio waveforms
 
 This tutorial introduces the display of audio waveforms using the [AudioThumbnail](https://docs.juce.com/master/classAudioThumbnail.html "Makes it easy to quickly draw scaled views of the waveform shape of an audio file.") class. This provides an easy way of drawing any number of waveforms within your audio applications.

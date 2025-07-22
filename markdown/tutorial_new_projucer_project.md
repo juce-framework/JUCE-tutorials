@@ -1,3 +1,6 @@
+---
+title: Projucer Part 1: Getting started with the Projucer
+---
 # Tutorial: Projucer Part 1: Getting started with the Projucer
 
 This tutorial shows you how to install JUCE and how to create a new cross-platform JUCE project using the Projucer. You also learn how to export the project to an IDE such as Xcode or Visual Studio to develop, run and debug your JUCE application.

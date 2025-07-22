@@ -1,3 +1,6 @@
+---
+title: The ComboBox class
+---
 # Tutorial: The ComboBox class
 
 This tutorial introduces the [ComboBox](https://docs.juce.com/master/classComboBox.html "A component that lets the user choose from a drop-down list of choices.") class, which is a component for displaying lists of items to the user. The contents of a [ComboBox](https://docs.juce.com/master/classComboBox.html "A component that lets the user choose from a drop-down list of choices.") object can be modified dynamically, and can be used for text input, too.

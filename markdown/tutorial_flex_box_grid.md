@@ -1,3 +1,6 @@
+---
+title: Responsive GUI layouts using FlexBox and Grid
+---
 # Tutorial: Responsive GUI layouts using FlexBox and Grid
 
 Build responsive GUI layouts that work across different screen sizes and orientations using the [FlexBox](https://docs.juce.com/master/classFlexBox.html "Represents a FlexBox container, which contains and manages the layout of a set of FlexItem objects.") and [Grid](https://docs.juce.com/master/classGrid.html "Container that handles geometry for grid layouts (fixed columns and rows) using a set of declarative ...") classes.

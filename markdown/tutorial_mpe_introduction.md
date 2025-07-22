@@ -1,3 +1,6 @@
+---
+title: Build a multi-polyphonic synthesiser
+---
 # Tutorial: Build a multi-polyphonic synthesiser
 
 Learn the basics of the MPE standard and how to implement a synthesiser that supports MPE. Hook your application up to a ROLI Seaboard Rise!\

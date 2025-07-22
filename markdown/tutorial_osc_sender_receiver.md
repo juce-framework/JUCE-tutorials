@@ -1,3 +1,6 @@
+---
+title: Implement the OSC protocol in your app
+---
 # Tutorial: Implement the OSC protocol in your app
 
 Learn how to harness the Open Sound Control protocol to connect several applications together over a network. Send and receive interaction data between applications.

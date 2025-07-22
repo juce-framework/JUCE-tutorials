@@ -1,3 +1,6 @@
+---
+title: App analytics collection
+---
 # Tutorial: App analytics collection
 
 Collect app usage data from users in JUCE applications. Send analytics events to Google Analytics using the analytics module.

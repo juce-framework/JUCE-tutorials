@@ -1,3 +1,6 @@
+---
+title: The Slider class
+---
 # Tutorial: The Slider class
 
 This tutorial introduces the [Slider](https://docs.juce.com/master/classSlider.html "A slider control for changing a value.") class, shows how to respond to slider movements, and how to obtain values from a slider. The tutorial also introduces some essential customisation techniques for displaying values with a slider.

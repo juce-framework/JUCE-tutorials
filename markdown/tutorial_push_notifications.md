@@ -1,3 +1,6 @@
+---
+title: Push Notifications on desktop and mobile devices
+---
 # Tutorial: Push Notifications on desktop and mobile devices
 
 Trigger local and remote notifications in your desktop and mobile applications. Learn how to send push notifications from a remote server to both macOS/iOS and Android devices.

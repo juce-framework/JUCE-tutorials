@@ -1,3 +1,6 @@
+---
+title: The AudioDeviceManager class
+---
 # Tutorial: The AudioDeviceManager class
 
 This tutorial introduces the [AudioDeviceManager](https://docs.juce.com/master/classAudioDeviceManager.html "Manages the state of some audio and midi i/o devices.") class which is used for managing audio devices on all platforms. This allows you to configure things such as the device sample rate and the number of inputs and outputs.

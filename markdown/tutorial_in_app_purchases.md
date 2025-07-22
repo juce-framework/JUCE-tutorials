@@ -1,3 +1,6 @@
+---
+title: In-App Purchases on desktop and mobile devices
+---
 # Tutorial: In-App Purchases on desktop and mobile devices
 
 Sell consumable and non-consumable In-App Purchases in your desktop and mobile applications. Learn how to setup and process payments for IAP products on both macOS/iOS and Android devices.

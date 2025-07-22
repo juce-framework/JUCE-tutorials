@@ -1,3 +1,6 @@
+---
+title: Handling MIDI events
+---
 # Tutorial: Handling MIDI events
 
 This tutorial illustrates how to handle MIDI input events. In addition to handing MIDI data from an external source, an on-screen keyboard component is introduced.

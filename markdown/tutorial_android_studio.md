@@ -1,3 +1,6 @@
+---
+title: Getting started with Android
+---
 # Tutorial: Getting started with Android
 
 This tutorial introduces the use of Android Studio for creating JUCE-based projects.

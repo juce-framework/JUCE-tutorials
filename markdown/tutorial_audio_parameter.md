@@ -1,3 +1,6 @@
+---
+title: Adding plug-in parameters
+---
 # Tutorial: Adding plug-in parameters
 
 Add parameters to your audio plug-in to allow control and automation from your digital audio workstation. Learn how to use the audio parameters for processing audio and create a user interface for them.

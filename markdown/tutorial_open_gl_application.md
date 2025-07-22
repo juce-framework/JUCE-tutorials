@@ -1,3 +1,6 @@
+---
+title: Build an OpenGL application
+---
 # Tutorial: Build an OpenGL application
 
 Learn how to get started with OpenGL as a high performance rendering library within your JUCE applications. Render beautiful 2D and 3D graphics in your audio apps and plugins.
