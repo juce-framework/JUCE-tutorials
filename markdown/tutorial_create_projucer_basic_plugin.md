@@ -1,5 +1,5 @@
 ---
-title: Create a basic Audio/MIDI plugin, Part 1: Setting up
+title: Create a basic Audio/MIDI plugin, Part 1
 ---
 # Tutorial: Create a basic Audio/MIDI plugin, Part 1: Setting up
 

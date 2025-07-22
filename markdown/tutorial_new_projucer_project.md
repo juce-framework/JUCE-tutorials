@@ -1,5 +1,5 @@
 ---
-title: Projucer Part 1: Getting started with the Projucer
+title: Projucer Part 1, getting started with the Projucer
 ---
 # Tutorial: Projucer Part 1: Getting started with the Projucer
 
@@ -62,7 +62,7 @@ The Projucer currently has exporters for the following IDEs, build systems, and 
 | Windows | Visual Studio, Code::Blocks |
 | Linux | Makefile,  Code::Blocks |
 | iOS| Xcode |
-| Android | Android Studio | 
+| Android | Android Studio |
 
 - **[File](https://docs.juce.com/master/classFile.html "Represents a local file or directory.") Creation Options** - Depending on the project type, this field may offer some options on what code to auto-generate. If you are new to JUCE, the default selection is usually the best way to go to auto-generate everything you need and get you going quickly.
 - When you have reviewed all your settings, click the **Create Project...** button to generate the project at a specified location.

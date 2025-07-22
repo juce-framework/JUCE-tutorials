@@ -1,5 +1,5 @@
 ---
-title: Projucer Part 3: Choosing the right Projucer template for your application
+title: Projucer Part 3, choosing the right Projucer template for your application
 ---
 # Tutorial: Projucer Part 3: Choosing the right Projucer template for your application
 

@@ -1,5 +1,5 @@
 ---
-title: Projucer Part 2: Manage your Projucer projects
+title: Projucer Part 2, manage your Projucer projects
 ---
 # Tutorial: Projucer Part 2: Manage your Projucer projects
 
