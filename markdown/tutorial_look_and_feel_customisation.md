@@ -48,6 +48,9 @@ private:
     juce::TextButton button2;
 ```
 
+> [!NOTE]
+> LookAndFeels must always be declared *before* the widgets and components consuming it! Otherwise they would be destructed while still in use by those classes.
+
 Then change the line of code in the constructor, that we just added, to this:
 
 ```cpp
