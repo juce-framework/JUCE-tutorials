@@ -301,7 +301,7 @@ if (textWidth > 0)
 
 Build and run this and it should look similar to the following screenshot.
 
-![](/\_images/tutorial_look_and_feel_customisation_screenshot5.png "Buttons with shadows (Button 1 is shown clicked)")
+![](/_images/tutorial_look_and_feel_customisation_screenshot5.png "Buttons with shadows (Button 1 is shown clicked)")
 
 > [!TIP]
 >The completed code for this section can be found in the `LookAndFeelCustomisationTutorial_03.h` file of the demo project for this tutorial.
