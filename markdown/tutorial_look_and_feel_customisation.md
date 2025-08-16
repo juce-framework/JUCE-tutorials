@@ -112,7 +112,7 @@ There are many functions in the [LookAndFeel](https://docs.juce.com/master/class
 
 ## Slider customisation
 
-For example, take a look at the [Slider::LookAndFeelMethods](structSlider_1_1LookAndFeelMethods.html "This abstract base class is implemented by LookAndFeel classes to provide slider drawing functionalit...") within the JUCE API documentation. In this list you will notice a function named [Slider::LookAndFeelMethods::drawRotarySlider()](structSlider_1_1LookAndFeelMethods.html#ae63a9d8adce084cd5dbe02b960c73a9a).
+For example, take a look at the [Slider::LookAndFeelMethods](https://docs.juce.com/master/structSlider_1_1LookAndFeelMethods.html "This abstract base class is implemented by LookAndFeel classes to provide slider drawing functionalit...") within the JUCE API documentation. In this list you will notice a function named [Slider::LookAndFeelMethods::drawRotarySlider()](https://docs.juce.com/master/structSlider_1_1LookAndFeelMethods.html#ae63a9d8adce084cd5dbe02b960c73a9a).
 
 Let's override this in our `OtherLookAndFeel` class. Add the declaration to the class:
 
